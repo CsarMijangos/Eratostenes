@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import math
 print('El siguiente programa implementa la criba de Eratostenes \n')
 x=int(input('Ingrese un entero positivo x mayor que 1 \n'))
